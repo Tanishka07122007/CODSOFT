@@ -11,5 +11,5 @@
 - Remove tasks
 - Exit tasks
   
-📁 Code file: `Task-1(To do list application)`
+📁 Code file: `Task-1To do list app.py
 Developed by Tanishka!
