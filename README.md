@@ -1,1 +1,15 @@
+# CODSOFT Internship Projects
 
+## ✅ Task 1 - To-Do List App using Python
+
+🛠️ A command-line based To-Do list application.
+
+### Features:
+- Show tasks
+- Add tasks
+- Update tasks
+- Remove tasks
+- Exit tasks
+  
+📁 Code file: `Task-1(To do list application)`
+Developed by Tanishka!
