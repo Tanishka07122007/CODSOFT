@@ -28,5 +28,19 @@ Developed by Tanishka!
 - Modulus %
 
 📁 Code file: Task-1Calculator.py
+Developed by Tanishka!
 
- Developed by Tanishka!
+
+
+
+## ✅ Task 3 - Password Generator using Python
+
+🔐 A secure password generator that allows users to choose password length and complexity level.
+
+### Features:
+- Choose password length
+- Select complexity: simple, medium, strong
+- Uses random + string modules
+
+📁 Code file: Task-3PasswordGenerator.py
+Developed by Tanishka
